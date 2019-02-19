@@ -1,6 +1,8 @@
 Once upon a time there was a princess named Kylie. She spent her days tending to her garden planting new flowers and weeding until one day something very terrible happened.
-<<<<<<< HEAD
-=======
+
 She forgot the password to her Github account! She tried again and again with different combinations, but nothing worked. 
->>>>>>> 7fff502cb16884d2161c170c86da7f2cb2f1e2e1
-Kylie had to reset her account but lost all her repositories. She didn't back them up to the cloud.
+
+She finally gave up and decided to reset her password but when she did, it said "cannot set new password
+to old password"!
+
+Kylie created a new account but lost all her repositories! Now she always backs them up on the cloud.
