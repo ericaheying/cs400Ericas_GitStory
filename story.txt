@@ -6,3 +6,5 @@ She finally gave up and decided to reset her password but when she did, it said 
 to old password"!
 
 Kylie created a new account but lost all her repositories! Now she always backs them up on the cloud.
+
+Now that Kylie is sure to back up her repositories to the cloud, she can live her days worry free. She can continue creating her digital garden without losing a single flower.
